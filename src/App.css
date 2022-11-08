@@ -1,9 +1,11 @@
 /* Add styling for your page here */
 
 .App {
-
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
 }
 
 .BakeryItem {
-  
+  padding-bottom: 30px;
 }
